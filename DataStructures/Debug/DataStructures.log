@@ -1,0 +1,5 @@
+﻿  SearchingAlgorithms.cpp
+C:\Users\Adham\source\repos\DataStructures\DataStructures\SearchingAlgorithms.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\source\repos\DataStructures\DataStructures\SearchingAlgorithms.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\source\repos\DataStructures\DataStructures\SearchingAlgorithms.cpp(80,16): warning C4018: '<': signed/unsigned mismatch
+  DataStructures.vcxproj -> C:\Users\Adham\source\repos\DataStructures\Debug\DataStructuresAndAlgorithms.exe

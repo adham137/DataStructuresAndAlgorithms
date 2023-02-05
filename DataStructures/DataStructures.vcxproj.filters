@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\sorting algorithms">
+      <UniqueIdentifier>{485270ab-0b17-42c6-b52f-193837e6abde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\searching algorithms">
+      <UniqueIdentifier>{1d2fd9db-fb96-401e-a80a-2c5d040383a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\data structures">
+      <UniqueIdentifier>{ffe175d0-7f34-43a4-833a-cc3d5104c458}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\data structures">
+      <UniqueIdentifier>{d5877538-a2a3-44e4-921d-04a4188cf282}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sorting algorithms">
+      <UniqueIdentifier>{d4c294de-cbd5-4c0d-893e-447e458688e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\searching algorithms">
+      <UniqueIdentifier>{879c5898-ff43-4267-8c05-5106be70cab2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ComplexSortingAlgorithms.h">
+      <Filter>Header Files\sorting algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleSortingAlgorithms.h">
+      <Filter>Header Files\sorting algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticStack.h">
+      <Filter>Header Files\data structures</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedQueue.h">
+      <Filter>Header Files\data structures</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Header Files\data structures</Filter>
+    </ClInclude>
+    <ClInclude Include="HashTable.h">
+      <Filter>Header Files\data structures</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueue.h">
+      <Filter>Header Files\data structures</Filter>
+    </ClInclude>
+    <ClInclude Include="AvlTree.h">
+      <Filter>Header Files\data structures</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedStack.h">
+      <Filter>Header Files\data structures</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Asteroids c++\ConsoleApplication1\BinarySearchTree.h">
+      <Filter>Header Files\data structures</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchingAlgorithms.h">
+      <Filter>Header Files\searching algorithms</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LinkedList.cpp">
+      <Filter>Source Files\data structures</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedQueue.cpp">
+      <Filter>Source Files\data structures</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueue.cpp">
+      <Filter>Source Files\data structures</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedStack.cpp">
+      <Filter>Source Files\data structures</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticStack.cpp">
+      <Filter>Source Files\data structures</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTable.cpp">
+      <Filter>Source Files\data structures</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Asteroids c++\ConsoleApplication1\BinarySearchTree.cpp">
+      <Filter>Source Files\data structures</Filter>
+    </ClCompile>
+    <ClCompile Include="ComplexSortingAlgorithms.cpp">
+      <Filter>Source Files\sorting algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleSortingAlgorithms.cpp">
+      <Filter>Source Files\sorting algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="AvlTree.cpp">
+      <Filter>Source Files\data structures</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchingAlgorithms.cpp">
+      <Filter>Source Files\searching algorithms</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
